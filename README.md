@@ -10,8 +10,9 @@ All important information about my university (for me): books, tests, tasks and 
 
 **Books:**
 * Pioneer C1 Student's book
-* Mankiw N.G. Principles of Economics 5th edition
+* Mankiw N.G., Principles of Economics 5th edition
 * Chuck Williams, MGMT Principles of Management, 9th edition
+* Dr Sandi Mann, Psycology The complete Introduction 
 
 
 **Passed exams:**

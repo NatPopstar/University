@@ -15,7 +15,6 @@ All important information about my university (for me): books, tests, tasks and 
 
 
 **Passed exams:**
-<details open>
 * [x] Information Technology Fundamentals (midterm)
 * [x] Information Technology Fundamentals (exam)
 * [x] Мathematics (midterm)
@@ -32,5 +31,4 @@ All important information about my university (for me): books, tests, tasks and 
 * [ ] Мanagement (exam)
 * [x] Еnglish Language 1 (midterm)
 * [ ] Еnglish Language 1 (exam)
-</details>
 
